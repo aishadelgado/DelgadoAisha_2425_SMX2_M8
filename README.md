@@ -16,5 +16,5 @@ Herramienta que los usuarios pueden utilizar accediendo a un servidor web a trav
 
 Son aquellos programas o aplicaciones que nos permiten utilizar informáticamente la información con la que se trabaja de forma habitual en una oficina.
 
-5. [Herramientas de Google] (https://www.google.com/intl/es-419/chrome/browser-tools/):
+5. [Herramientas de Google] (https://www.google.com/intl/es-419/chrome/browser-tools/)
 
