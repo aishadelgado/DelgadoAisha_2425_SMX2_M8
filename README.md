@@ -27,3 +27,20 @@ Son aquellos programas o aplicaciones que nos permiten utilizar informáticament
 |Google Meet|![Portatil](https://github.com/aishadelgado/SMX2_M8_UF1_A2_DelgadoAisha/blob/main/Portatil.png)|
 |...|...|
 
+6. ¿Qué es ```HTML```?
+
+Es el componente más básico de la Web. Define el significado y la estructura del contenido web.
+
+```<!D0CTYPE html>
+<HTML lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1-0">
+<title>Document</title>
+</head>
+<body>
+
+<body>
+</html>```
+
