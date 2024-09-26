@@ -44,6 +44,7 @@ Es el componente más básico de la Web. Define el significado y la estructura d
 
 <body>
 </html>
+```
 
 7. ¿Qué es ```CSS```?
 
