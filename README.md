@@ -18,3 +18,12 @@ Son aquellos programas o aplicaciones que nos permiten utilizar informáticament
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
+|Aplicaciones |Visto|
+|:-------|:--------:|
+|Google Docs|![Tick](https://github.com/aishadelgado/SMX2_M8_UF1_A2_DelgadoAisha/blob/main/tick.png)|
+|Google Slides|![Tick](https://github.com/aishadelgado/SMX2_M8_UF1_A2_DelgadoAisha/blob/main/tick.png)|
+|Google Sheets|![Tick](https://github.com/aishadelgado/SMX2_M8_UF1_A2_DelgadoAisha/blob/main/tick.png)|
+|Google Calendar|![Calendar](https://github.com/aishadelgado/SMX2_M8_UF1_A2_DelgadoAisha/blob/main/Calendar.png)|
+|Google Meet|![Portatil](https://github.com/aishadelgado/SMX2_M8_UF1_A2_DelgadoAisha/blob/main/Portatil.png)|
+|...|...|
+
