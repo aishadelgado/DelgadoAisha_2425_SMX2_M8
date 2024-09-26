@@ -45,3 +45,11 @@ Es el componente más básico de la Web. Define el significado y la estructura d
 <body>
 </html>
 
+7. ¿Qué es ```CSS```?
+
+Es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de los sitios.
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![Flujo de trabajo](https://github.com/aishadelgado/SMX2_M8_UF1_A2_DelgadoAisha/blob/main/Flujo%20de%20trabajo.png)
+
