@@ -52,5 +52,5 @@ Es un lenguaje que maneja el diseño y presentación de las páginas web, es dec
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![Flujo de trabajo](https://github.com/aishadelgado/SMX2_M8_UF1_A2_DelgadoAisha/blob/main/Flujo%20de%20trabajo.png#aligncenter)
+![Flujo de trabajo](https://github.com/aishadelgado/SMX2_M8_UF1_A2_DelgadoAisha/blob/main/Flujo%20de%20trabajo.png#alignleft)
 
