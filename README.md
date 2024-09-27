@@ -32,7 +32,7 @@ Son aquellos programas o aplicaciones que nos permiten utilizar informáticament
 Es el componente más básico de la Web. Define el significado y la estructura del contenido web.
 
 ```
-<!D0CTYPE html>
+<!DOCTYPE html>
 <HTML lang="en">
 <head>
 <meta charset="UTF-8">
